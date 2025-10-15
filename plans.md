@@ -39,3 +39,36 @@ non-functional requirements:
 - More focus on 'working'; workbench background
 - Showed alternative custom profile
 - Got rid of messenger, instead replacing it with a log page as a messenger most likely would not work
+
+
+# WEEK 4 - Algorithm design
+
+- Multiple algorithms designed for plans for sign in and sign up pages
+- Successful and unsuccessful trials planned for
+- Successful use of 
+
+# WEEKS 5-6 - Databases
+
+- Successful creation of a database through the posted tutorial
+- Simple manipulation of databases through SQL
+- Not enough understanding of databases (post note, came back to bite me)
+
+# WEEKS 7-8 - Creating and styling of website
+
+- First webpage set up through tutorial, in template setup
+- Basic CSS styling
+- Second and third webpages set up
+- Somewhat more CSS styling
+
+# WEEKS 9-10 - Adding interactivity
+
+- Linkages between webpages
+- Continued CSS styling with input boxes for login/signup
+- Half-interactions with posts
+-Still no real database use
+
+
+# Holidays - Away, unable to work
+
+
+
